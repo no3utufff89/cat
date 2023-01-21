@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cat/static/css/main.cd71dbf0.css",
+    "main.js": "/cat/static/js/main.e9f45268.js",
+    "static/js/787.66ddd28f.chunk.js": "/cat/static/js/787.66ddd28f.chunk.js",
+    "static/media/TrebuchetMS.eot": "/cat/static/media/TrebuchetMS.a39cca2d6c78afd39d8f.eot",
+    "static/media/TrebuchetMS.ttf": "/cat/static/media/TrebuchetMS.d69a72044b0a638fd1a5.ttf",
+    "static/media/TrebuchetMS-Bold.eot": "/cat/static/media/TrebuchetMS-Bold.cf07b813e87a6896b44b.eot",
+    "static/media/TrebuchetMS-Bold.ttf": "/cat/static/media/TrebuchetMS-Bold.b69cd0cd0562310312d7.ttf",
+    "static/media/cat.png": "/cat/static/media/cat.22c79082392189fbda9e.png",
+    "static/media/TrebuchetMS.woff": "/cat/static/media/TrebuchetMS.af3cbb0e7a5aaa5aad48.woff",
+    "static/media/TrebuchetMS-Bold.woff": "/cat/static/media/TrebuchetMS-Bold.ed76e98b5ec0933d740e.woff",
+    "static/media/bg.png": "/cat/static/media/bg.8b93e2127ee44e2a8146.png",
+    "static/media/Exo2.0-Thin.otf": "/cat/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "/cat/index.html",
+    "static/media/line.svg": "/cat/static/media/line.37a7102d0a18265ba9af.svg",
+    "main.cd71dbf0.css.map": "/cat/static/css/main.cd71dbf0.css.map",
+    "main.e9f45268.js.map": "/cat/static/js/main.e9f45268.js.map",
+    "787.66ddd28f.chunk.js.map": "/cat/static/js/787.66ddd28f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd71dbf0.css",
+    "static/js/main.e9f45268.js"
+  ]
+}
